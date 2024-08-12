@@ -45,7 +45,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="r51yjitiQ1QQHzr15yWM-10" value="配常数项&lt;div&gt;配为一次项系数的一半再平方&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="180" y="510" width="160" height="40" as="geometry" />
+          <mxGeometry x="185" y="510" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r51yjitiQ1QQHzr15yWM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r51yjitiQ1QQHzr15yWM-11" target="r51yjitiQ1QQHzr15yWM-17">
           <mxGeometry relative="1" as="geometry" />
@@ -53,20 +53,8 @@
         <mxCell id="r51yjitiQ1QQHzr15yWM-11" value="配了常数项，&lt;div&gt;肯定无中生有了某种操作，必须在等式另一边进行抵消&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="190" y="584" width="150" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="460" y="530" as="targetPoint" />
-            <mxPoint x="420" y="480" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-14" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="r51yjitiQ1QQHzr15yWM-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="530" as="targetPoint" />
-            <mxPoint x="260" y="480" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="r51yjitiQ1QQHzr15yWM-15" value="二次项系数化为 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="210" y="440" width="100" height="40" as="geometry" />
+          <mxGeometry x="215" y="440" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="r51yjitiQ1QQHzr15yWM-17" value="逆用完全平方公式将配完的式子化简" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="212.5" y="670" width="105" height="40" as="geometry" />
@@ -77,7 +65,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="r51yjitiQ1QQHzr15yWM-22" value="两边同时开方&lt;div&gt;记得右边要加正负号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="215" y="740" width="115" height="40" as="geometry" />
+          <mxGeometry x="207.5" y="740" width="115" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="r51yjitiQ1QQHzr15yWM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.526;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r51yjitiQ1QQHzr15yWM-15" target="r51yjitiQ1QQHzr15yWM-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
