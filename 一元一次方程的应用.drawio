@@ -24,51 +24,59 @@
             <mxPoint x="219.74" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r51yjitiQ1QQHzr15yWM-0">
+        <mxCell id="r51yjitiQ1QQHzr15yWM-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r51yjitiQ1QQHzr15yWM-0" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="470" y="70" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-0" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;判断问题的类型&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;是不是一个人干活，另一个捣乱&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r51yjitiQ1QQHzr15yWM-0" value="&lt;font style=&quot;font-size: 11px;&quot;&gt;判断问题的类型&lt;/font&gt;&lt;div style=&quot;font-size: 11px;&quot;&gt;&lt;font style=&quot;font-size: 11px;&quot;&gt;是不是一个人干活，另一个捣乱&lt;/font&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="270" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r51yjitiQ1QQHzr15yWM-0" target="WIyWlLk6GJQsqaUBKTNV-3">
+        <mxCell id="r51yjitiQ1QQHzr15yWM-2" value="" style="rounded=0;html=1;jettySize=auto;orthogonalLoop=1;fontSize=11;endArrow=block;endFill=0;endSize=8;strokeWidth=1;shadow=0;labelBackgroundColor=none;edgeStyle=orthogonalEdgeStyle;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r51yjitiQ1QQHzr15yWM-0" target="WIyWlLk6GJQsqaUBKTNV-3" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="280" y="70" as="targetPoint" />
             <mxPoint x="280" y="30" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-3" value="考虑用速度差&lt;div&gt;再设 X&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r51yjitiQ1QQHzr15yWM-3" value="考虑用速度差&lt;div&gt;再设 X&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="414" y="80" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r51yjitiQ1QQHzr15yWM-10" target="r51yjitiQ1QQHzr15yWM-11">
+        <mxCell id="r51yjitiQ1QQHzr15yWM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r51yjitiQ1QQHzr15yWM-10" target="r51yjitiQ1QQHzr15yWM-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-10" value="配常数项&lt;div&gt;配为一次项系数的一半再平方&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r51yjitiQ1QQHzr15yWM-10" value="&lt;div&gt;&amp;nbsp;配为一次项系数的一半再平方&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="185" y="510" width="160" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r51yjitiQ1QQHzr15yWM-11" target="r51yjitiQ1QQHzr15yWM-17">
+        <mxCell id="r51yjitiQ1QQHzr15yWM-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r51yjitiQ1QQHzr15yWM-11" target="r51yjitiQ1QQHzr15yWM-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-11" value="配了常数项，&lt;div&gt;肯定无中生有了某种操作，必须在等式另一边进行抵消&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r51yjitiQ1QQHzr15yWM-11" value="配了常数项，&lt;div&gt;肯定无中生有了某种操作，必须在等式另一边进行抵消&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="190" y="584" width="150" height="56" as="geometry" />
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-15" value="二次项系数化为 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r51yjitiQ1QQHzr15yWM-15" value="二次项系数化为 1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="215" y="440" width="100" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-17" value="逆用完全平方公式将配完的式子化简" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="212.5" y="670" width="105" height="40" as="geometry" />
+        <mxCell id="r51yjitiQ1QQHzr15yWM-17" value="逆用完全平方公式，找 b&lt;div&gt;将配完的式子化简&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
+          <mxGeometry x="196.25" y="670" width="137.5" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" target="r51yjitiQ1QQHzr15yWM-22">
+        <mxCell id="r51yjitiQ1QQHzr15yWM-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" target="r51yjitiQ1QQHzr15yWM-22" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="267.5" y="710" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-22" value="两边同时开方&lt;div&gt;记得右边要加正负号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="r51yjitiQ1QQHzr15yWM-22" value="两边同时开方&lt;div&gt;记得右边要加正负号&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" vertex="1">
           <mxGeometry x="207.5" y="740" width="115" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="r51yjitiQ1QQHzr15yWM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.526;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r51yjitiQ1QQHzr15yWM-15" target="r51yjitiQ1QQHzr15yWM-10">
+        <mxCell id="r51yjitiQ1QQHzr15yWM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.526;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" parent="WIyWlLk6GJQsqaUBKTNV-1" source="r51yjitiQ1QQHzr15yWM-15" target="r51yjitiQ1QQHzr15yWM-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="-TLis_5vYddRsclxDr7s-0" value="带 x 的东西全放到左边" style="rounded=1;whiteSpace=wrap;html=1;fontSize=12;glass=0;strokeWidth=1;shadow=0;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="198.75" y="367" width="132.5" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="-TLis_5vYddRsclxDr7s-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.526;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="-TLis_5vYddRsclxDr7s-0">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="266.5" y="440" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
